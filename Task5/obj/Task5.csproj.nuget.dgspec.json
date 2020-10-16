@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\codebitsacademy\\C-Sharp\\LabTask3\\Task4\\Task4.csproj": {}
+    "C:\\codebitsacademy\\C-Sharp\\LabTask3\\Task5\\Task5.csproj": {}
   },
   "projects": {
-    "C:\\codebitsacademy\\C-Sharp\\LabTask3\\Task4\\Task4.csproj": {
+    "C:\\codebitsacademy\\C-Sharp\\LabTask3\\Task5\\Task5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\codebitsacademy\\C-Sharp\\LabTask3\\Task4\\Task4.csproj",
-        "projectName": "Task4",
-        "projectPath": "C:\\codebitsacademy\\C-Sharp\\LabTask3\\Task4\\Task4.csproj",
+        "projectUniqueName": "C:\\codebitsacademy\\C-Sharp\\LabTask3\\Task5\\Task5.csproj",
+        "projectName": "Task5",
+        "projectPath": "C:\\codebitsacademy\\C-Sharp\\LabTask3\\Task5\\Task5.csproj",
         "packagesPath": "C:\\Users\\23480\\.nuget\\packages\\",
-        "outputPath": "C:\\codebitsacademy\\C-Sharp\\LabTask3\\Task4\\obj\\",
+        "outputPath": "C:\\codebitsacademy\\C-Sharp\\LabTask3\\Task5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\23480\\AppData\\Roaming\\NuGet\\NuGet.Config"
