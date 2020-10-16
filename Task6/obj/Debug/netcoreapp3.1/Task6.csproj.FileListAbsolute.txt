@@ -1,0 +1,11 @@
+C:\codebitsacademy\C-Sharp\LabTask3\Task6\obj\Debug\netcoreapp3.1\Task6.csprojAssemblyReference.cache
+C:\codebitsacademy\C-Sharp\LabTask3\Task6\obj\Debug\netcoreapp3.1\Task6.AssemblyInfoInputs.cache
+C:\codebitsacademy\C-Sharp\LabTask3\Task6\obj\Debug\netcoreapp3.1\Task6.AssemblyInfo.cs
+C:\codebitsacademy\C-Sharp\LabTask3\Task6\bin\Debug\netcoreapp3.1\Task6.exe
+C:\codebitsacademy\C-Sharp\LabTask3\Task6\bin\Debug\netcoreapp3.1\Task6.deps.json
+C:\codebitsacademy\C-Sharp\LabTask3\Task6\bin\Debug\netcoreapp3.1\Task6.runtimeconfig.json
+C:\codebitsacademy\C-Sharp\LabTask3\Task6\bin\Debug\netcoreapp3.1\Task6.runtimeconfig.dev.json
+C:\codebitsacademy\C-Sharp\LabTask3\Task6\bin\Debug\netcoreapp3.1\Task6.dll
+C:\codebitsacademy\C-Sharp\LabTask3\Task6\bin\Debug\netcoreapp3.1\Task6.pdb
+C:\codebitsacademy\C-Sharp\LabTask3\Task6\obj\Debug\netcoreapp3.1\Task6.dll
+C:\codebitsacademy\C-Sharp\LabTask3\Task6\obj\Debug\netcoreapp3.1\Task6.pdb

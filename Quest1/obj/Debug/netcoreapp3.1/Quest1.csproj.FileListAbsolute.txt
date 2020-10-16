@@ -1,0 +1,11 @@
+C:\codebitsacademy\C-Sharp\LabTask3\Quest1\bin\Debug\netcoreapp3.1\Quest1.exe
+C:\codebitsacademy\C-Sharp\LabTask3\Quest1\bin\Debug\netcoreapp3.1\Quest1.deps.json
+C:\codebitsacademy\C-Sharp\LabTask3\Quest1\bin\Debug\netcoreapp3.1\Quest1.runtimeconfig.json
+C:\codebitsacademy\C-Sharp\LabTask3\Quest1\bin\Debug\netcoreapp3.1\Quest1.runtimeconfig.dev.json
+C:\codebitsacademy\C-Sharp\LabTask3\Quest1\bin\Debug\netcoreapp3.1\Quest1.dll
+C:\codebitsacademy\C-Sharp\LabTask3\Quest1\bin\Debug\netcoreapp3.1\Quest1.pdb
+C:\codebitsacademy\C-Sharp\LabTask3\Quest1\obj\Debug\netcoreapp3.1\Quest1.csprojAssemblyReference.cache
+C:\codebitsacademy\C-Sharp\LabTask3\Quest1\obj\Debug\netcoreapp3.1\Quest1.AssemblyInfoInputs.cache
+C:\codebitsacademy\C-Sharp\LabTask3\Quest1\obj\Debug\netcoreapp3.1\Quest1.AssemblyInfo.cs
+C:\codebitsacademy\C-Sharp\LabTask3\Quest1\obj\Debug\netcoreapp3.1\Quest1.dll
+C:\codebitsacademy\C-Sharp\LabTask3\Quest1\obj\Debug\netcoreapp3.1\Quest1.pdb
