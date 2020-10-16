@@ -1,28 +1,43 @@
 ﻿using System;
-
-namespace Task6
+namespace CalculatorTest
 {
     class Program
     {
         static void Main(string[] args)
         {
-           Task task = new Task();
-
+           Console.WriteLine("Console Calculator");
             Console.Write("Please Enter First Number: ");
-            task.FirstNumber = Convert.ToDouble(Console.ReadLine());
-
+            double firstNum = Convert.ToDouble(Console.ReadLine());
             Console.Write("Please Enter Second Number: ");
-            task.SecondNumber = Convert.ToDouble(Console.ReadLine());
-
-             int operation = Convert.ToInt32(Console.ReadLine());
-
-             switch(operation)
-             {
-             case 1:
-    Console.WriteLine($"The Result is {task.Add()}");
-    break;
-             }
-
-        }
+            double secondNum = Convert.ToDouble(Console.ReadLine());
+           
+            Console.Write("Enter 1 to add,\n 2 to sub,\n 3 to divide,\n 4 to multiply,\n 5 to modulus: ");
+            int operation = Convert.ToInt32(Console.ReadLine());
+            switch (operation)
+            {
+                case 1:
+                    Console.WriteLine($"The answer is {firstNum + secondNum}");
+                    break;
+                case 2:
+                    Console.WriteLine($"The answer is {firstNum - secondNum}");
+                    break;
+                 case 3:
+                    Console.WriteLine($"The answer is {firstNum / secondNum}");
+                    break;
+                 case 4:
+                    Console.WriteLine($"The answer is {firstNum * secondNum}");
+                    break;
+                 case 5:
+                    Console.WriteLine($"The answer is {firstNum % secondNum}");
+                    break;            
+                default: 
+                Console.WriteLine("Ivalid Operation");
+                 break;  
+            }        }
     }
 }
+
+
+
+
+
